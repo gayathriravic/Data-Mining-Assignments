@@ -1,0 +1,52 @@
+{ 
+	 "algorithm": "K-Means", 
+	 "WSSE": 2210172.846976335, 
+	 "Clusters": [ { 
+	 	 "id":  1, 
+	 	 "size": 962, 
+	 	 "error": 1402.2168115601191,
+	 	 "terms": ["cms", "intimately", "reunion", "crispyi", "sophistication", "stinks", "6the", "ipa", "pig", "jade"]  
+	 }, 
+	 { 
+	 	 "id":  2, 
+	 	 "size": 22, 
+	 	 "error": 439.79500863111537,
+	 	 "terms": ["thick", "pointy", "disappoint", "ipa", "spice", "crying", "breaded", "wallets", "substitute", "informative"]  
+	 }, 
+	 { 
+	 	 "id":  3, 
+	 	 "size": 5, 
+	 	 "error": 185.8522139917996,
+	 	 "terms": ["convince", "thick", "previous", "bites", "plates", "end", "adjust", "bangingalthough", "sakabarnicknamed", "shroom"]  
+	 }, 
+	 { 
+	 	 "id":  4, 
+	 	 "size": 7, 
+	 	 "error": 126.49175977909346,
+	 	 "terms": ["sweet", "pack", "mouth", "kindness", "appease", "sort", "japanese", "plenty", "closing", "filled"]  
+	 }, 
+	 { 
+	 	 "id":  5, 
+	 	 "size": 1, 
+	 	 "error": 0.0,
+	 	 "terms": ["weary", "enchiladas", "tortillas", "avoid", "tummy", "full", "truth", "whenever", "ill", "youd"]  
+	 }, 
+	 { 
+	 	 "id":  6, 
+	 	 "size": 1, 
+	 	 "error": 0.0,
+	 	 "terms": ["justify", "promoted", "believes", "outside", "full", "piped", "filled", "afternoon", "order", "could"]  
+	 }, 
+	 { 
+	 	 "id":  7, 
+	 	 "size": 1, 
+	 	 "error": 0.0,
+	 	 "terms": ["created", "pork", "hopefully", "construction", "taste", "mirror", "foodthe", "bloor", "knowing", "betterone"]  
+	 }, 
+	 { 
+	 	 "id":  8, 
+	 	 "size": 1, 
+	 	 "error": 0.0,
+	 	 "terms": ["im", "definitely", "wonder", "back", "6070", "rate", "think", "leave", "order", "knowing"]  
+	 } ] 
+} 

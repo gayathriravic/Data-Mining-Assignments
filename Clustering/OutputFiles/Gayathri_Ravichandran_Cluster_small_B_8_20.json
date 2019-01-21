@@ -1,0 +1,52 @@
+{ 
+	 "algorithm": "Bisecting K-Means",
+	 "WSSE": 2208707.330723481, 
+	 "Clusters": [ { 
+	 	 "id":  1, 
+	 	 "size": 409, 
+	 	 "error": 651.0342823750385,
+	 	 "terms": ["selectionsthe", "brewery", "stinks", "preventing", "tough", "beardy", "piercings", "crying", "leashes", "breath"]  
+	 }, 
+	 { 
+	 	 "id":  2, 
+	 	 "size": 228, 
+	 	 "error": 595.4039481880633,
+	 	 "terms": ["pate", "fridge", "didcourse", "teenage", "listening", "brewery", "worrying", "rambunctious", "ipa", "veganfoodieteam"]  
+	 }, 
+	 { 
+	 	 "id":  3, 
+	 	 "size": 156, 
+	 	 "error": 571.7432696975353,
+	 	 "terms": ["problemswe", "surgery", "bone", "teenage", "machinecomputer", "secure", "25th", "spirited", "brash", "burgeoned"]  
+	 }, 
+	 { 
+	 	 "id":  4, 
+	 	 "size": 103, 
+	 	 "error": 597.3843467440325,
+	 	 "terms": ["greatthey", "disregarded", "mempche", "young", "cms", "pack", "brewery", "cheezwiznot", "secure", "runner"]  
+	 }, 
+	 { 
+	 	 "id":  5, 
+	 	 "size": 27, 
+	 	 "error": 355.1371799037681,
+	 	 "terms": ["convince", "surpriseyou", "bone", "bites", "plates", "behind", "spice", "stayed", "wallets", "cozy"]  
+	 }, 
+	 { 
+	 	 "id":  6, 
+	 	 "size": 28, 
+	 	 "error": 434.45468851427,
+	 	 "terms": ["convince", "menui", "pack", "thick", "intimately", "experiencei", "previous", "appealed", "ipa", "bout"]  
+	 }, 
+	 { 
+	 	 "id":  7, 
+	 	 "size": 29, 
+	 	 "error": 463.6253648777458,
+	 	 "terms": ["reunion", "pack", "lemongrass", "pointy", "crispyi", "disappoint", "sophistication", "spice", "gap", "pastry"]  
+	 }, 
+	 { 
+	 	 "id":  8, 
+	 	 "size": 20, 
+	 	 "error": 465.5917055948124,
+	 	 "terms": ["bone", "disappoint", "dishesas", "bangingalthough", "spice", "tough", "crying", "breaded", "offering", "knows"]  
+	 } ] 
+} 
